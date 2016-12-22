@@ -1,5 +1,9 @@
 # Front-end Philly
 
+A community of front-end developers, in Philadelphia CHANGE
+
+[Meetup Page](https://www.meetup.com/frontendphilly/)
+
 ### Meetup Themes
 
 - Cross Browser Testing
