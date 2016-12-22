@@ -1,16 +1,18 @@
 # Front-end Philly
 
-A community of front-end developers, in Philadelphia CHANGE
+A community of front-end developers, in Philadelphia.
 
 [Meetup Page](https://www.meetup.com/frontendphilly/)
 
 ### Meetup Themes
 
-- Cross Browser Testing
-- Build Tools
-- Pattern Libraries, and the new bespoke Framework
-- Naming things, BEM, SMACSS, and other named things
+- Compatibility: Browser Testing, Virtual Machines
+- Build Tools: Gulp, Grunt, webpack, npm
+- Pattern Libraries: On brand, bespoke frameworks
+- Naming things: BEM, SMACSS, and other named things
 - Deployment and Release Cycles, Dev to Production
-- Accessibility, Tools, Working with Designers, and Pit Falls
-- Speed & Measuring Performance
-- Serverless Architecture
+- Accessibility: Useful Tools, Working with Designers, Pit Falls
+- Performance: Speed, Measuring, A/B Testing
+- Serverless Architecture: Concept, CDN, Lambda
+- ES2016, ES6, and Polyfills
+- Google Site Search: Customizing Design, JSON API, Targeting Results
