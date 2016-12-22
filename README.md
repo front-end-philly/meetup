@@ -1,6 +1,6 @@
 # Front-end Philly
 
-# Meetup Themes
+## Meetup Themes
 
 - Cross Browser Testing
 - Build Tools
