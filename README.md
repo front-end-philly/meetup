@@ -14,5 +14,5 @@ A community of front-end developers, in Philadelphia.
 - Accessibility: Useful Tools, Working with Designers, Pit Falls
 - Performance: Speed, Measuring, A/B Testing
 - Serverless Architecture: Concepts, CDN, Lambda
-- ES2016, ES6, and Polyfills
+- ES2015, ES6, and Polyfills
 - Google Site Search: Customizing Design, JSON API, Targeting Results
