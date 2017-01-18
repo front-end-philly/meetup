@@ -4,7 +4,11 @@ A community of front-end developers, in Philadelphia.
 
 [Meetup Page](https://www.meetup.com/frontendphilly/)
 
-### Meetup Themes
+### Slack Channel
+
+[frontendphilly.slack.com](https://frontendphilly.slack.com)
+
+### Possible 2017 Meetup Themes
 
 - Compatibility: Browser Testing, Virtual Machines
 - Build Tools: Gulp, Grunt, webpack, npm
